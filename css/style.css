@@ -709,3 +709,16 @@ section { padding:8rem 0; }
   border: 1px solid rgba(231, 76, 60, 0.4);
   color: #e74c3c;
 }
+
+/* ===== SITE THEME: Cyber Mint ===== */
+:root {
+    --primary: #67e8f9;
+    --primary-dark: #22d3ee;
+    --accent: #a5f3fc;
+    --bg-dark: #030d11;
+    --bg-darker: #020608;
+    --bg-card: #071520;
+    --font-heading: 'Quantico', sans-serif;
+    --font-body: 'Karla', sans-serif;
+}
+.site-header { background: rgba(3,13,17,0.85); }
